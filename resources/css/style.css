@@ -3,6 +3,31 @@ body {
     font-size: 16px;
 }
 
+h1, h2, h3, h4, h5 {
+  color: #353940
+}
+
+p {
+  color: #40444D;
+}
+
+a {
+  color: #2F6FED;
+}
+
+button {
+  background-color: #2F6FED;
+  border-color: #2F6FED;
+  border-width: 0px;
+  color: white;
+  padding: 8px;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: none;
+}
+
 .navbar {
   background-color: red;
   padding: 16px 24px;
