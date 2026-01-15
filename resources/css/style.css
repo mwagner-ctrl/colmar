@@ -185,4 +185,7 @@ button {
   text-transform: uppercase;
 }
 
-
+#thesis {
+  width: 100%;
+  padding: 32px 24px;
+}
