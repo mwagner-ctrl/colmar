@@ -157,6 +157,7 @@ button {
 .info-left img {
   max-width: 100%;
   height: auto;
+  border-radius: 8px;
 }
 
 #information {
@@ -203,6 +204,7 @@ button {
   height: auto;
   object-fit: cover;
   flex-shrink: 0;
+  border-radius: 8px;
 }
 
 .tiles-content {
@@ -244,6 +246,8 @@ button {
   flex: 1 1 calc((100% - 2 * 32px) / 3);
   background-color: white;
   box-sizing: border-box;
+  border-radius: 8px;
+  overflow: hidden;
 }
 
 .course {
@@ -292,6 +296,7 @@ button {
   max-width: 100%;
   height: auto;
   display: block;
+  border-radius: 8px;
 }
 
 .thesis-right {
@@ -308,6 +313,7 @@ button {
 .thesis-tiles img {
   width: 35%;
   height: auto;
+  border-radius: 8px;
 }
 
 .thesis-tiles h3, 
@@ -331,3 +337,5 @@ footer {
 .terms p {
   padding: 0px 8px;
 }
+
+
