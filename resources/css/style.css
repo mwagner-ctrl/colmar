@@ -47,12 +47,18 @@ p {
 }
 
 a {
-  color: #2F6FED;
+  color: #3a10e5;
+  text-decoration: none;
+  transition: text-decoration 0.3s ease;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 button {
-  background-color: #2F6FED;
-  border-color: #2F6FED;
+  background-color: #3a10e5;
+  border-color: #3a10e5;
   border-width: 0px;
   color: white;
   padding: 16px;
@@ -64,7 +70,13 @@ button {
   cursor: pointer;
   box-shadow: none;
   min-width: 280px;
+  transition: color 0.3s ease;
 }
+
+button:hover {
+  background-color: #5533ff;
+}
+
 
 .navbar {
   display: flex;
@@ -125,7 +137,7 @@ button {
 }
 
 .nav-links a:hover {
-  color: #007bff;
+  color: #3a10e5;
 }
 
 
