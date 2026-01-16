@@ -1,28 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
-    <title>ic_onCampus</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
-            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
-            <feMerge>
-                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
-                <feMergeNode in="SourceGraphic"></feMergeNode>
-            </feMerge>
-        </filter>
-    </defs>
-    <g id="OPt-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="prog2_pro3_Mobile-Portrait_opt2-Copy-2" transform="translate(-93.000000, -18.000000)" fill="#000000">
-            <g id="nav">
-                <g id="Group-6" filter="url(#filter-1)">
-                    <g id="ic_onCampus" transform="translate(96.000000, 20.000000)">
-                        <path d="M20,2 L20,4 L15,4 L11.53,9 L14,9 L14,11 L12.46,11 L16.17,19 L13.97,19 L13.04,17 L4.38,17 L3.35,19 L1.1,19 L5.23,11 L5,11 C4.55,11 4.17,10.7 4.04,10.3 L0.87,0.84 L1.82,0.5 C2.34,0.34 2.91,0.63 3.08,1.15 L5.72,9 L10.1,9 L13.57,4 L10,4 L10,2 L20,2 L20,2 Z M7.5,11 L5.42,15 L12.11,15 L10.26,11 L7.5,11 Z" id="Shape"></path>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_312_39)">
+<g filter="url(#filter0_d_312_39)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M24.3835 6.16522V8.32225H18.9909L15.2485 13.7148H17.9124V15.8719H16.2515L20.2528 24.5H17.88L16.877 22.343H7.53706L6.42619 24.5H3.99952L8.4538 15.8719H8.20574C7.72041 15.8719 7.31057 15.5483 7.17036 15.1169L3.75146 4.91414L4.77606 4.54745C5.33688 4.37488 5.95164 4.68765 6.13499 5.24848L8.98227 13.7148H13.7062L17.4486 8.32225H13.5983V6.16522H24.3835ZM10.902 15.8719L8.65872 20.1859H15.874L13.8787 15.8719H10.902Z" fill="black"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_312_39" x="-0.562601" y="2.34297" width="29.2602" height="28.6281" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2.15703"/>
+<feGaussianBlur stdDeviation="2.15703"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_312_39"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_312_39" result="shape"/>
+</filter>
+<clipPath id="clip0_312_39">
+<rect width="28" height="28" fill="white"/>
+</clipPath>
+</defs>
 </svg>
